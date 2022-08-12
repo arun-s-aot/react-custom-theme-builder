@@ -1,0 +1,25 @@
+
+@import url(https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css);
+/* @import url(https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css); */
+@import url(https://cdn.jsdelivr.net/npm/formiojs@4.13.1/dist/formio.full.min.css);
+
+@import './variables.scss';
+/* 
+.formio-dialog{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.formio-dialog.formio-dialog-content{
+    width: calc(100% - 20%);
+    background: #fff;
+    padding: 1rem;
+    overflow: scroll;
+    margin: 10%;
+    height: calc(100vh - 20%);
+} */
+
+
+
