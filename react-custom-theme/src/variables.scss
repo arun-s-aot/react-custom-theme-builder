@@ -1,0 +1,29 @@
+:root {
+    /* Set the deafult values */
+    --selected-background-color: var(--light-background-color);
+    --selected-primary-color: var(--light-primary-color);
+    --selected-disabled-color: var(--light-disabled-color);
+    --selected-primary-background-color: var(--light-primary-background-color);
+    --selected-outline-color: var(--light-outline-color);
+    
+    /* Set the 'light' theme */
+    --light-background-color: #fff;
+    --light-primary-background-color: #007bff;
+    --light-primary-color: #000;
+    --light-disabled-color: #6c757d;
+    --light-outline-color: #000;
+  
+    /* Set the 'dark' theme */
+    --dark-background-color: #000;
+    --dark-primary-background-color: #000000;
+    --dark-primary-color: #fff;
+    --dark-disabled-color: #8a8a8a;
+    --dark-outline-color: #f7f7f7;
+
+    /* Set the 'material' theme */
+    --material-background-color: #5cb0ff;
+    --material-primary-background-color: #f1082f;
+    --material-primary-color: #000000;
+    --material-disabled-color: #c4c4fc;
+    --material-outline-color: #6c757d;
+  }

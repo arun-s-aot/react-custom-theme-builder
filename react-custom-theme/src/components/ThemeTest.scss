@@ -1,0 +1,27 @@
+.container{
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+body{
+  background-color: var(--selected-background-color);
+}
+
+label{
+  color: var(--selected-primary-color);
+}
+.btn-primary {
+  color: var(--selected-primary-color);
+  position: relative;
+  font-size: 16px;
+  padding: 10px;
+  min-width: 120px;
+  border-radius: 5px;
+  background-color: var(--selected-primary-background-color);
+  outline: 2px solid var(--selected-outline-color);
+  transition: background-color 0.3s ease, box-shadow 0.7s ease;
+}
+
+.primary-btn:disabled{
+  background-color: var(--selected-disabled-color);
+}
